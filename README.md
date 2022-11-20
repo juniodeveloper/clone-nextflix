@@ -5,5 +5,5 @@
 ## Clone este repositório
 
 ```markdown
-$ git clone https://github.com/juniodeveloper/nextflix-clone.git
+$ git clone https://github.com/juniodeveloper/clone-nextflix.git
 ```
